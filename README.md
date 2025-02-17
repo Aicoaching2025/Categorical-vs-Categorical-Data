@@ -16,12 +16,10 @@ In this lesson, we used various methods to assess **whether two categorical vari
 ### **Example 1: Contingency Table of Frequencies**
 This table summarizes the number of occurrences for each category.
 
-![Contingency Table](images/contingency_table.png)
 
 ### **Example 2: Contingency Table of Proportions**
 This table converts the frequency table into proportions.
 
-![Proportions Table](images/proportions_table.png)
 
 ### **Example 3: Chi-Square Test Results**
 The **Chi-Square test** determines if the observed distribution is **significantly different from the expected distribution**.
