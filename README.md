@@ -1,2 +1,29 @@
-# Categorical-vs-Categorical-Data
-Implementing different methods to assess the relationship between two categorical variables.
+# 📊 Analyzing Associations Between Categorical Variables
+
+## 📝 Lesson Overview
+In this lesson, we used various methods to assess **whether two categorical variables are associated**. Although our examples focused on **binary variables** (only two categories per variable), the same methods can be applied to **non-binary categorical variables**.
+
+### **Methods Used**
+✅ Contingency Tables (Frequencies)  
+✅ Contingency Tables (Proportions)  
+✅ Marginal Proportions  
+✅ Expected Contingency Tables  
+✅ Chi-Square Statistic  
+
+---
+
+## 📊 Visualizing Associations Between Categorical Variables
+### **Example 1: Contingency Table of Frequencies**
+This table summarizes the number of occurrences for each category.
+
+![Contingency Table](images/contingency_table.png)
+
+### **Example 2: Contingency Table of Proportions**
+This table converts the frequency table into proportions.
+
+![Proportions Table](images/proportions_table.png)
+
+### **Example 3: Chi-Square Test Results**
+The **Chi-Square test** determines if the observed distribution is **significantly different from the expected distribution**.
+
+**Chi-Square Statistic:**
